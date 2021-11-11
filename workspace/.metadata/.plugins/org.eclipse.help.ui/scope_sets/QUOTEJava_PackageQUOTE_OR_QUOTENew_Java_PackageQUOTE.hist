@@ -1,0 +1,4 @@
+#Sun Nov 07 14:16:13 IST 2021
+__DEFAULT__=false
+org.eclipse.help.ui.localSearch.master=true
+expression="Java Package" OR "New Java Package"
